@@ -1,0 +1,7 @@
+# ignore all system files
+**/.DS_Store
+
+/config.local
+/config.bak
+/tmp
+/cache
